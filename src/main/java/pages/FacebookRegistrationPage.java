@@ -45,8 +45,8 @@ public class FacebookRegistrationPage extends BasePage {
         yearDateField.selectByVisibleText("1995");
         driver.findElement(genderRadioButton).click();
         driver.findElement(signupButton).click();
-        Thread.sleep(100000);
-
+        
+//fake accounts redirect to recaptcha
 //cowelltaylor@gers-phyto.com
 //        cowelltaylor@gers-phyto.com
 //        vulkan1@manac.site
