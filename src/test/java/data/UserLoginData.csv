@@ -1,0 +1,7 @@
+TestCases,Username-Email,Password,Assertion
+ValidEmailEmptyPassword,100077245759961,,The password that you've entered is incorrect. 
+EmptyEmailWithPassword,,28gmu5af2yp,The email address or mobile number you entered isn't connected to an account. 
+EmptyEmailEmptyPassword,,,The email address or mobile number you entered isn't connected to an account. 
+InValidEmailInvalidPassword,100077232759961,pass,The password that you've entered is incorrect. 
+ValidEmailInvalidPassword,100077245759961,n,The password that you've entered is incorrect. 
+ValidEmailValidPassword,100077245759961,x3oo72mez8u,https://www.facebook.com/?sk=welcome
